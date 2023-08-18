@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" color="Pink" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">Hi 👋, I'm Enisha, a software quality assurance engineer 👨‍💻 from 🇧🇩</div>  
+### <div align="center" color="pink">Hi 👋, I'm Enisha, a software quality assurance engineer 👨‍💻 from 🇧🇩</div>  
   
 
 - 🔭 I’m currently working on Manual Testing, API Testing etc.
