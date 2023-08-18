@@ -6,10 +6,10 @@
 ### <div align="center">Hi 👋, I'm Enisha, a software quality assurance engineer 👨‍💻 from 🇧🇩</div>  
   
 
-- 🔭 I’m currently working on Manual Testing   
+- 🔭 I’m currently working on Manual Testing, API Testing,
   
 
-- 🌱 I’m currently learning API Testing, Performance Testing, Vulnerability Testing etc.  
+- 🌱 I’m currently learning Performance Testing, Vulnerability Testing etc.  
   
 
 - ❓ Ask me about anything related to SQA and Software Testing related technologies  
