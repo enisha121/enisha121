@@ -16,6 +16,8 @@ Here are some ideas to get you started
 - ⚡ Fun fact: ...
 
 -->
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enisha121&label=Profile%20views&color=0e75b6&style=flat" alt="enisha121" /> </p>
 
