@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center" color="pink">Hi 👋, I'm Enisha, a software quality assurance engineer 👨‍💻 from 🇧🇩</div>  
+### <div align="center" >Hi 👋, I'm Enisha, a software quality assurance engineer 👨‍💻 from 🇧🇩</div>  
   
 
 - 🔭 I’m currently working on Manual Testing, API Testing etc.
@@ -91,16 +91,16 @@
 <a href="https://github.com/enisha121" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
+<a href="https://www.linkedin.com/in/enishaashrefa/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/enishaaa" target="_blank">
+<a href="https://www.facebook.com/Enishaaaaaa/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/enisha_ashrefa" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/Enisha Ashrefa" target="_blank">
+<a href="https://www.youtube.com/@enishaashrefa" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
  
