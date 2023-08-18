@@ -4,7 +4,7 @@
 <!--
 **enisha121/enisha121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: ---->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enisha121&label=Profile%20views&color=0e75b6&style=flat" alt="enisha121" /> </p>
