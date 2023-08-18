@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to SQA and Software Testing related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I think being funny can be relative. 
   
 
 <br/>  
