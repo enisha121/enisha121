@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Enisha, a software quality assurance engineer 👨‍💻 from 🇧🇩</div>  
+### <div align="center">Hi 👋, I'm Enisha, a software quality assurance engineer 👨‍💻 from 🇧🇩</div>  
   
 
 - 🔭 I’m currently working on Manual Testing   
