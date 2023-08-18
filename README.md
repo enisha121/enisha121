@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Enisha Ashrefa</h1>
+<h3 align="center">A passionate Software QA Engineer from Bangladesh</h3>
 
 <!--
 **enisha121/enisha121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Enisha Ashrefa</h1>
-<h3 align="center">A passionate Software QA Engineer from Bangladesh</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enisha121&label=Profile%20views&color=0e75b6&style=flat" alt="enisha121" /> </p>
 
