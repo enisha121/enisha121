@@ -85,7 +85,14 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/enisha121" target="_blank">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enisha121&show_icons=true&locale=en&layout=compact" alt="enisha121" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enisha121&show_icons=true&locale=en" alt="enisha121" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enisha121&" alt="enisha121" /></p>
+
+
+<!-- <a href="https://github.com/enisha121" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/rishavanand" target="_blank">
@@ -101,7 +108,7 @@
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+   -->
 
 <br/>  
 
