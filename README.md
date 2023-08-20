@@ -185,6 +185,12 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/enisha-ashrefa) and le
 
 <br/>  
 
+## 📝 Blog Posts
+- [Title of Blog Post](link_to_blog_post)
+- [Another Blog Post](link_to_another_blog_post)
+
+ <br/>
+
 ## My CV
 You can find my detailed CV [here](https://drive.google.com/file/d/16jd92MGWXzmvWt10PSHrWZbZtEqHeho0/view?usp=sharing).
 
@@ -192,11 +198,7 @@ You can find my detailed CV [here](https://drive.google.com/file/d/16jd92MGWXzmv
 
 <br/>  
 
-## 📝 Blog Posts
-- [Title of Blog Post](link_to_blog_post)
-- [Another Blog Post](link_to_another_blog_post)
 
-- <br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=enisha121&&style=flat-square" align="center" />
