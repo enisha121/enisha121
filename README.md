@@ -6,7 +6,7 @@
 
 ### <div align="center" >Hey, I'm Enisha, a software quality assurance engineer 👨‍💻 from 🇧🇩</div>  
   
-
+<!--
 - 🔭 I’m currently working on Manual Testing, API Testing etc.
   
 
@@ -17,7 +17,7 @@
   
 
 - ⚡ Fun fact: I think being funny can be relative. 
-  
+-->
 
 <br/>  
 
