@@ -206,11 +206,14 @@ result in the range of 25%, 50% and 100%.
 
 <br/>  
 
+<!--
 ## 📝 Blog Posts
 - [Title of Blog Post](link_to_blog_post)
 - [Another Blog Post](link_to_another_blog_post)
 
  <br/>
+
+ -->
 
 ## My CV
 You can find my detailed CV [here](https://drive.google.com/file/d/16jd92MGWXzmvWt10PSHrWZbZtEqHeho0/view?usp=sharing).
