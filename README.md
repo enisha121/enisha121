@@ -32,7 +32,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Hi there! 👋 I'm Enisha Ashrefa</h1>
+        <h1>Hi there! 👋</h1>
         <p>Welcome to my corner of the coding universe! I'm a passionate Software Quality Assurance Engineer with a knack for ensuring that digital creations meet the highest standards of excellence.</p>
         <div class="skills">
             <h2>What I Bring to the Table</h2>
