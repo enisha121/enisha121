@@ -80,7 +80,7 @@
 
 Welcome to my corner of the coding universe! I'm Enisha Ashrefa, a passionate Software Quality Assurance Engineer with a knack for ensuring that digital creations meet the highest standards of excellence. From meticulously crafted manual tests to diving into the intricacies of API testing and even delving into the realm of security testing, I'm all about ensuring that software not only functions flawlessly but also provides a seamless user experience.
 
-## 🔭 What I Bring to the Table
+## 🔭 My Area of interest
 
 - **Manual Testing:** With a keen eye for detail, I specialize in manual testing. I believe that every click, swipe, and interaction matters, and I'm dedicated to uncovering even the most elusive bugs.
 
@@ -88,7 +88,7 @@ Welcome to my corner of the coding universe! I'm Enisha Ashrefa, a passionate So
 
 - **Learning Security Testing:** The digital world can be a tricky place, but I'm up for the challenge. I'm actively honing my skills in security testing to fortify software against vulnerabilities and cyber threats.
 
-## 🌱 Always learning, always growing! 🌱
+## 🌱 Learning in order to Growing! 🌱
 
 Technology never stands still, and neither do I. As the tech landscape evolves, I'm committed to staying on the cutting edge of best practices and methodologies in QA. Join me on this journey of continuous improvement and exploration!
 
