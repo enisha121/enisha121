@@ -18,6 +18,7 @@
 - ⚡ Fun fact: I think being funny can be relative. 
 -->
 
+<!-- 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -57,9 +58,9 @@
 <a href="https://github.com/enisha121" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px; border-radius: 50%" />
 </a>
-<!-- <a href="https://www.linkedin.com/in/enishaashrefa/" target="_blank">
+<a href="https://www.linkedin.com/in/enishaashrefa/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a> -->
+
 <a href="https://www.facebook.com/Enishaaaaaa/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
@@ -72,6 +73,29 @@
  
    
 </div> 
+
+-->
+
+# Hi there! 👋 I'm Enisha Ashrefa
+
+Welcome to my corner of the coding universe! I'm Enisha Ashrefa, a passionate Software Quality Assurance Engineer with a knack for ensuring that digital creations meet the highest standards of excellence. From meticulously crafted manual tests to diving into the intricacies of API testing and even delving into the realm of security testing, I'm all about ensuring that software not only functions flawlessly but also provides a seamless user experience.
+
+## What I Bring to the Table
+
+- **Manual Testing:** With a keen eye for detail, I specialize in manual testing. I believe that every click, swipe, and interaction matters, and I'm dedicated to uncovering even the most elusive bugs.
+
+- **API Testing:** The back-end magic that powers applications intrigues me. I'm well-versed in API testing, making sure that the data flows smoothly and the connections remain robust.
+
+- **Learning Security Testing:** The digital world can be a tricky place, but I'm up for the challenge. I'm actively honing my skills in security testing to fortify software against vulnerabilities and cyber threats.
+
+## Always Learning, Always Growing
+
+Technology never stands still, and neither do I. As the tech landscape evolves, I'm committed to staying on the cutting edge of best practices and methodologies in QA. Join me on this journey of continuous improvement and exploration!
+
+Feel free to explore my repositories and projects. Don't hesitate to reach out if you'd like to collaborate, share insights, or just geek out about software quality. Let's raise the bar for software together!
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/enisha-ashrefa) and let's embark on a quality assurance adventure. 🚀
+
 <br/> 
 
 ## My Skill Set  
