@@ -167,7 +167,7 @@ This is an exploratory testing on Banglashoppers conducted by me.
 To get a detailed idea, please click [here](https://github.com/enishaashrefa/Test-Case-Writing).
 
 ### API Testing Project
-This is my api testing project which I tried to execute on a student info basis.
+This is my api testing project which I tried to execute based on student info.
 Please find it [here](https://github.com/enisha121/API-Testing-Project).
 
 <br/>
@@ -197,7 +197,7 @@ Please find it [here](https://github.com/enisha121/API-Testing-Project).
 -  **Programming for beginners (P4B) - (Season 2 - Season 4)** - I was one of the judges and co-ordinators in this programme for UIU freshers in order to build their programming base strong which used to be organized by UIU APP FORUM.
 -  **Roadmap to higher Studies** - It was organized by UIU APP forum where I was a screeptwriter and a co-ordinator.
 - **Scholarship Award by United International University** - Its given each trimester based on trimester
-result in the range of 25%, 50% and 100%
+result in the range of 25%, 50% and 100%.
 
 <!-- Add more achievements as needed -->
 
