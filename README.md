@@ -164,7 +164,7 @@ Feel free to explore my repositories and projects. Don't hesitate to reach out i
 ## 🚀 Project Showcase
 ### Manual Testing Project
 Brief description and link to the project.
-[here](https://drive.google.com/file/d/16jd92MGWXzmvWt10PSHrWZbZtEqHeho0/view?usp=sharing)
+[here](https://github.com/enishaashrefa/Test-Case-Writing)
 
 ### API Testing Project
 Brief description and link to the project.
