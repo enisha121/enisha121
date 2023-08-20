@@ -3,10 +3,9 @@
 </div>  
 -->
   
-
-### <div align="center" >Hey, I'm Enisha, a software quality assurance engineer 👨‍💻 from 🇧🇩</div>  
-  
 <!--
+### <div align="center" >Hey, I'm Enisha, a software quality assurance engineer 👨‍💻 from 🇧🇩</div>  
+
 - 🔭 I’m currently working on Manual Testing, API Testing etc.
   
 
@@ -18,6 +17,62 @@
 
 - ⚡ Fun fact: I think being funny can be relative. 
 -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enisha Ashrefa - Software Quality Assurance Engineer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+        }
+        .skills {
+            background-color: #fff;
+            padding: 20px;
+            margin-top: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        .connect {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Hi there! 👋 I'm Enisha Ashrefa</h1>
+        <p>Welcome to my corner of the coding universe! I'm a passionate Software Quality Assurance Engineer with a knack for ensuring that digital creations meet the highest standards of excellence.</p>
+        <div class="skills">
+            <h2>What I Bring to the Table</h2>
+            <p><strong>Manual Testing:</strong> With a keen eye for detail, I specialize in manual testing. I believe that every click, swipe, and interaction matters, and I'm dedicated to uncovering even the most elusive bugs.</p>
+            <p><strong>API Testing:</strong> The back-end magic that powers applications intrigues me. I'm well-versed in API testing, making sure that the data flows smoothly and the connections remain robust.</p>
+            <p><strong>Learning Security Testing:</strong> The digital world can be a tricky place, but I'm up for the challenge. I'm actively honing my skills in security testing to fortify software against vulnerabilities and cyber threats.</p>
+        </div>
+        <div class="connect">
+            <p>Connect with me on <a href="https://www.linkedin.com/in/enisha-ashrefa">LinkedIn</a> and let's embark on a quality assurance adventure. 🚀</p>
+        </div>
+    </div>
+</body>
+</html>
+
 
 <br/>  
 
