@@ -164,11 +164,11 @@ Feel free to explore my repositories and projects. Don't hesitate to reach out i
 ## 🚀 Project Showcase
 ### Manual Testing Project
 This is an exploratory testing on Banglashoppers conducted by me.
-To get a detailed idea, please click [here](https://github.com/enishaashrefa/Test-Case-Writing)
+To get a detailed idea, please click [here](https://github.com/enishaashrefa/Test-Case-Writing).
 
 ### API Testing Project
 This is my api testing project which I tried to execute on a student info basis.
-Please find it [here](https://github.com/enisha121/API-Testing-Project)
+Please find it [here](https://github.com/enisha121/API-Testing-Project).
 
 <br/>
 
