@@ -178,12 +178,15 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/enisha-ashrefa) and le
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## Recent Blog Posts  
+<!-- ## Recent Blog Posts  -->
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!--If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
+
+## My CV
+You can find my detailed CV [here](https://drive.google.com/file/d/16jd92MGWXzmvWt10PSHrWZbZtEqHeho0/view?usp=sharing).
 
   
 
