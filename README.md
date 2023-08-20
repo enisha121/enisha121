@@ -191,6 +191,17 @@ Please find it [here](https://github.com/enisha121/API-Testing-Project).
 <!--If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
 
+
+## 🏆 Achievements
+
+-  **Programming for beginners (P4B) - (Season 2 - Season 4)** - I was one of the judges and co-ordinators in this programme for UIU freshers in order to build their programming base strong.
+-  **Roadmap to higher Studies** - It was organized by UIU APP forum where I was a screeptwriter and a co-ordinator
+- **Scholarship Award by United International University** - Its given each trimester based on trimester
+result in the range of 25%, 50% and 100%
+
+<!-- Add more achievements as needed -->
+
+
 <br/>  
 
 ## 📝 Blog Posts
