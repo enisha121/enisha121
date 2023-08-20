@@ -88,7 +88,7 @@ Welcome to my corner of the coding universe! I'm Enisha Ashrefa, a passionate So
 
 - **Learning Security Testing:** The digital world can be a tricky place, but I'm up for the challenge. I'm actively honing my skills in security testing to fortify software against vulnerabilities and cyber threats.
 
-## 🌱 Learning in order to Growing! 🌱
+## 🌱 Learning in order to Growing! 
 
 Technology never stands still, and neither do I. As the tech landscape evolves, I'm committed to staying on the cutting edge of best practices and methodologies in QA. Join me on this journey of continuous improvement and exploration!
 
