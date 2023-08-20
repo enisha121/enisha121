@@ -85,6 +85,8 @@ Welcome to my corner of the coding universe! I'm Enisha Ashrefa, a passionate So
 - **Manual Testing:** With a keen eye for detail, I specialize in manual testing. I believe that every click, swipe, and interaction matters, and I'm dedicated to uncovering even the most elusive bugs.
 
 - **API Testing:** The back-end magic that powers applications intrigues me. I'm well-versed in API testing, making sure that the data flows smoothly and the connections remain robust.
+  
+- **Performance Testing:** With the help of JMeter, I try to test the perfomance of a system which can really make the system more qualityful. 
 
 - **Learning Security Testing:** The digital world can be a tricky place, but I'm up for the challenge. I'm actively honing my skills in security testing to fortify software against vulnerabilities and cyber threats.
 
