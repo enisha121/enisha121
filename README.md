@@ -67,7 +67,7 @@
             <p><strong>Learning Security Testing:</strong> The digital world can be a tricky place, but I'm up for the challenge. I'm actively honing my skills in security testing to fortify software against vulnerabilities and cyber threats.</p>
         </div>
         <div class="connect">
-            <p>Connect with me on <a href="https://www.linkedin.com/in/enisha-ashrefa">LinkedIn</a> and let's embark on a quality assurance adventure. 🚀</p>
+            <p>Connect with me on <a href="https://www.linkedin.com/in/enishaashrefa/">LinkedIn</a> and let's embark on a quality assurance adventure. 🚀</p>
         </div>
     </div>
 </body>
