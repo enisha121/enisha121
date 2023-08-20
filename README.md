@@ -88,7 +88,7 @@ Welcome to my corner of the coding universe! I'm Enisha Ashrefa, a passionate So
   
 - **Performance Testing:** With the help of JMeter, I try to test the perfomance of a system which can really make the system more qualityful. 
 
-- **Learning Security Testing:** The digital world can be a tricky place, but I'm up for the challenge. I'm actively honing my skills in security testing to fortify software against vulnerabilities and cyber threats.
+- **Learning Security Testing and Automation tools:** The digital world can be a tricky place, but I'm up for the challenge. I'm actively honing my skills in security testing to fortify software against vulnerabilities and cyber threats. To ease rigorous testing, I am enhanching my skills in automation tools as well.
 
 ## 🌱 Learning in order to Growing! 
 
